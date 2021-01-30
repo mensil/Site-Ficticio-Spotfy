@@ -77,6 +77,10 @@ nav.navbar-transparente{
 	color: black;
 }
 
+.carousel-control-next, .carousel-control-prev{
+	width: 5%;
+}
+
 /*---------Rodapé----------*/
 footer{
 	background: #000;
